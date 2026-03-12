@@ -74,6 +74,6 @@ Extend to other domains like Healthcare, Retail, etc.
 Deploy as a web dashboard for sales teams.
 
 👤 Author
-Sreevatsun Janarthanaam
-Master of Science in Scientific Instrumentation, Ernst-Abbe-Hochschule Jena, Germany
-📧 sreevatsunj@gmail.com
+Diwakar Gunasekaran
+Master of Science in Artificial Intelligence, National College of Ireland, Ireland
+diwakar4666@gmail.com
